@@ -1,1 +1,1 @@
-# Project-005-Find-the-Number-Game-JS-02
+# JavaScript-Project-01_Find-the-Number
